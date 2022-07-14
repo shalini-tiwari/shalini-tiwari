@@ -5,13 +5,12 @@
 
 - 🌱 I’m currently learning **ReactJS, NextJS, ElectronJS**
 
-- 👯 I’m looking to collaborate on [Coding Platfrom](https://github.com/shalini-tiwari/coding-platform)
-
+- 👯 I’m looking to collaborate on Projects, Tech Articles
 - 🤝 I’m looking for help with **My Porforlio**
 
 - 👨‍💻 All of my projects are available at [http://shalini-tiwari.github.io/](http://shalini-tiwari.github.io/)
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Talk to me about **Frontend Development**
 
 - 📫 How to reach me **sk6048699@gmail.com**
 
