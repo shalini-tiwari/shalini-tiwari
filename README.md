@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS, NextJS, ElectronJS**
 
-- 👯 I’m looking to collaborate on Projects, Tech Articles
-- 🤝 I’m looking for help with **My Porforlio**
+- 👯 I’m looking to collaborate on Projects, Tech Article.
 
 - 👨‍💻 All of my projects are available at [http://shalini-tiwari.github.io/](http://shalini-tiwari.github.io/)
 
