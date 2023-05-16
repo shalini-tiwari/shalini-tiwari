@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shalini Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Coding Platfrom](https://github.com/shalini-tiwari/coding-platform)
-
-- 🌱 I’m currently learning **ReactJS, NextJS, ElectronJS**
 
 - 👯 I’m looking to collaborate on Projects, Tech Article.
 
